@@ -1698,6 +1698,13 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable dice_1
+drawable dice_2
+drawable dice_3
+drawable dice_4
+drawable dice_5
+drawable dice_6
+drawable empty_dice
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
@@ -1877,6 +1884,8 @@ id design_menu_item_action_area_stub
 id design_menu_item_text
 id design_navigation_view
 id dialog_button
+id dice_image
+id dice_image2
 id dimensions
 id direct
 id disableHome
@@ -2039,7 +2048,6 @@ id radio
 id ratio
 id rectangles
 id reset_button
-id result_text
 id reverseSawtooth
 id right
 id rightToLeft
